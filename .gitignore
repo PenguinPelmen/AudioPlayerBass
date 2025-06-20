@@ -7,12 +7,3 @@
 *.sdf
 *.cache
 *.db
-
-# Build output
-Debug/
-Release/
-x64/
-x86/
-*.obj
-*.exe
-*.pdb

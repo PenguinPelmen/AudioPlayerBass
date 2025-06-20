@@ -1,0 +1,11 @@
+﻿  AudioPlayer.cpp
+E:\LessonsCpp\AudioPlayer\AudioPlayer\AudioCL.h(59,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "AudioPlayer.cpp")
+  
+E:\LessonsCpp\AudioPlayer\AudioPlayer\AudioPlayer.cpp(290,124): warning C4244: аргумент: преобразование "LONG" в "uint16_t", возможна потеря данных
+E:\LessonsCpp\AudioPlayer\AudioPlayer\AudioPlayer.cpp(290,98): warning C4244: аргумент: преобразование "LONG" в "uint16_t", возможна потеря данных
+E:\LessonsCpp\AudioPlayer\AudioPlayer\AudioPlayer.cpp(290,72): warning C4244: аргумент: преобразование "LONG" в "uint16_t", возможна потеря данных
+E:\LessonsCpp\AudioPlayer\AudioPlayer\AudioPlayer.cpp(290,47): warning C4244: аргумент: преобразование "LONG" в "uint16_t", возможна потеря данных
+E:\LessonsCpp\AudioPlayer\AudioPlayer\AudioPlayer.cpp(291,96): warning C4244: аргумент: преобразование "LONG" в "uint16_t", возможна потеря данных
+E:\LessonsCpp\AudioPlayer\AudioPlayer\AudioPlayer.cpp(291,71): warning C4244: аргумент: преобразование "LONG" в "uint16_t", возможна потеря данных
+  AudioPlayer.vcxproj -> E:\LessonsCpp\AudioPlayer\AudioPlayer\x64\Debug\AudioPlayer.exe
